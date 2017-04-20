@@ -1,0 +1,16 @@
+With this Makefile
+you can use :
+	make run_case1
+	make run_case2
+	make run_case3
+	make run_case4
+	make run_case5
+to run these cases;
+
+and the output will become:
+	case1_true_path_set
+	case2_true_path_set
+	case3_true_path_set
+	case4_true_path_set
+	case5_true_path_set
+	
